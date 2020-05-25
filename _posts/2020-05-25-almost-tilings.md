@@ -19,7 +19,10 @@ We'll say that an *almost tiling* of the unit square $[0,1]^2$ by an open set $U
 2. $\displaystyle{[0,1]^2\setminus \bigcup_{i}}(a_i U+b_i)$ has zero area.
 
 
-Throughout the post I'll refer to the sets $a_iU+b_i$ as tiles, and the numbers $a_i$ as the diameters of these tiles. *Claim:* For any almost tiling of the unit square by the diamond $\displaystyle{D=\{(x,y)\in \mathbb R^2\colon |x|+|y|<1\}}$ we have $\displaystyle{\sum a_i = \infty}$.
+Throughout the post I'll refer to the sets $a_iU+b_i$ as tiles, and the numbers $a_i$ as the diameters of these tiles. *Claim:* For any almost tiling of the unit square by the diamond
+
+$$\displaystyle{D=\{(x,y)\in \mathbb R^2\colon \abs{x}+\abs{y}<1\}}$$
+we have $\displaystyle{\sum a_i = \infty}$.
 
 
 ![An almost tiling of the unit square by diamonds](/files/2020-05-almost-tilings-fig1.png)
