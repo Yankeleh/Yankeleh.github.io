@@ -9,8 +9,6 @@ tags:
 
 **Note: This post first appeared on a now defunct blog on January 19, 2019**
 
-## This should be a heading
-
 The following problem came from an old qualifying exam.
 
 We'll say that an *almost tiling* of the unit square $[0,1]^2$ by an open set $U$, is a collection of disjoint sets $\displaystyle{\{a_iU + b_i\}}$, with $\displaystyle{a_i>0, b_i\in \mathbb R^2}$, such that the following two conditions hold:
@@ -21,7 +19,7 @@ We'll say that an *almost tiling* of the unit square $[0,1]^2$ by an open set $U
 
 Throughout the post I'll refer to the sets $a_iU+b_i$ as tiles, and the numbers $a_i$ as the diameters of these tiles. *Claim:* For any almost tiling of the unit square by the diamond
 
-$$\displaystyle{D=\{(x,y)\in \mathbb R^2\colon \abs{x}+\abs{y}<1\}}$$
+$$\displaystyle{D=\{(x,y)\in \mathbb R^2\colon \mid x\mid+\mid y\mid<1\}}$$
 we have $\displaystyle{\sum a_i = \infty}$.
 
 
