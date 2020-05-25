@@ -1,6 +1,6 @@
 ---
 title: 'Almost Tilings of the Unit Square (Part 1?)'
-date: 2015-08-14
+date: 2020-05-25
 permalink: /posts/2020/05/almost-tilings/
 tags:
   - Math
