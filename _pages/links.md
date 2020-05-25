@@ -36,3 +36,4 @@ redirect_from:
 ## Miscellanious Links
 
 * ["Living Proof"](https://www.ams.org/about-us/LivingProof.pdf) - An AMS/MAA collection of stories
+* [A Mathematician's Mission Statement](https://blogs.ams.org/mathmentoringnetwork/2020/04/23/a-mathematicians-mission-statement/?fbclid=IwAR08sOGeLLdw3F7vEoTcZ2pQSHITDGV93y9tQsYVQz46O1xJNBJPue6W3Qk)
