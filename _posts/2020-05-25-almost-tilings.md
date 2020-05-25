@@ -19,7 +19,7 @@ We'll say that an *almost tiling* of the unit square $[0,1]^2$ by an open set $U
 
 Throughout the post I'll refer to the sets $a_iU+b_i$ as tiles, and the numbers $a_i$ as the diameters of these tiles. *Claim:* For any almost tiling of the unit square by the diamond
 
-$$D=\{(x,y)\in \mathbb R^2\colon \mid x\mid+\mid y\mid<1\}$$
+$$D=\{(x,y)\in \mathbb R^2\colon |x|+|y|<1\}$$
 
 we have $\displaystyle{\sum a_i = \infty}$.
 
