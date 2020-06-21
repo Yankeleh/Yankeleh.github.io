@@ -9,13 +9,16 @@ redirect_from:
 
 ## On Teaching
 
-* [Humanizing Pre-Course Contact with a Liquid Syllabus, by Michelle Pacansky-Brock](https://brocansky.com/2020/06/humanizing-pre-course-contact-with-a-liquid-syllabus.html)
+* [Humanizing Pre-Course Contact with a Liquid Syllabus](https://brocansky.com/2020/06/humanizing-pre-course-contact-with-a-liquid-syllabus.html) by Michelle Pacansky-Brock
+
+
 
 ## On Writing
 
 * [Terence Tao's Writing Advice](https://terrytao.wordpress.com/advice-on-writing-papers/ "On Writing")
 * [Writing Resources from an MIT Course](https://ocw.mit.edu/courses/mathematics/18-821-project-laboratory-in-mathematics-spring-2013/writing/)
-* ["Tips for Authors" by J.S. Milne](https://www.jmilne.org/math/tips.html)
+* ["Tips for Authors"](https://www.jmilne.org/math/tips.html) by J.S. Milne
+* ["Some Hints on Mathematical Style"](https://people.math.osu.edu/goss.3/hint.pdf) by David Gross
 
 
 
@@ -27,6 +30,12 @@ redirect_from:
 * [John McCarthy on giving colloquia](http://www.ams.org/profession/leaders/workshops/gcoll.pdf)
 * [Ravi Vakil on _attending_ talks](http://virtualmath1.stanford.edu/~vakil/threethings.html "The 'Three Things' Exercise")
 
+
+
+## Time Management
+
+* ["How to Balance Research with Everything Else We Have to Do"]("https://www.ams.org/journals/notices/202005/rnoti-p659.pdf") by David Zureick-Brown
+* ["Productivity tips, tricks and hacks for academics (2015 edition)"](http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/) by Matt Might
 
 
 ## Coding Resources
