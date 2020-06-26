@@ -44,6 +44,7 @@ redirect_from:
 * [Numpy Tutorial](https://numpy.org/devdocs/user/quickstart.html#indexing-slicing-and-iterating)
 * [Another Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
 * [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia)
+* [SageMath](https://www.sagemath.org/)
 
 
 
