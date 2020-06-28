@@ -10,6 +10,7 @@ redirect_from:
 ## On Teaching
 
 * [Humanizing Pre-Course Contact with a Liquid Syllabus](https://brocansky.com/2020/06/humanizing-pre-course-contact-with-a-liquid-syllabus.html) by Michelle Pacansky-Brock
+* [SUNY Open Educational Resources](https://oer.suny.edu/)
 
 
 
