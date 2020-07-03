@@ -54,3 +54,4 @@ redirect_from:
 * ["On Proof and Progress in Mathematics" by Bill Thurston](https://arxiv.org/abs/math/9404236)
 * ["Living Proof"](https://www.ams.org/about-us/LivingProof.pdf) - An AMS/MAA collection of stories
 * [A Mathematician's Mission Statement - Pamela Harris](https://blogs.ams.org/mathmentoringnetwork/2020/04/23/a-mathematicians-mission-statement/)
+* [A Tutorial on Making Diagrams in Inkscape](https://www.youtube.com/watch?v=eyqH0IrzYLc)
