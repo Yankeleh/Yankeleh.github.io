@@ -15,7 +15,7 @@ Below is a table outlining every significant entry (and failure of translation) 
 
 Kleinain Groups | Iterated Holomorphic Maps | Notes
 --- | --- | ---
-The Kleinian Group \(\Gamma\) | Iterates of a holomorphic map \(\{f^n\}\) |
+The Kleinian Group $\Gamma$ | Iterates of a holomorphic map \(\{f^n\}\) |
 A finitely generated Kleinian group | A rational map |
 The domain of discontinuity, or ordinary set \(\Omega\) | The Fatou set \(\mathcal F(f)\) | Both of these can be defined as the set of points in which \(\Gamma\) or \(\{f^n\}\) forms a normal family on a neighborhood.
 The limit set \(\Lambda(\Gamma)=\hat{\mathbb{C}}\setminus \Omega(\Gamma)\) | The Julia set \(J(f)=\hat{\mathbb{C}}\setminus \mathcal{F}(f)\) |
