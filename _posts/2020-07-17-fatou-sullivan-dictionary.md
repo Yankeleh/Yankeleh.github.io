@@ -1,7 +1,7 @@
 ---
 title: 'The Fatou-Sullivan Dictionary'
 date: 2020-07-17
-permalink: /posts/3030/01/fatou-sullivan-dictionary/
+permalink: /posts/2020/07/fatou-sullivan-dictionary/
 tags:
   - 
   - 
