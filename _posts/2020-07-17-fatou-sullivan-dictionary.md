@@ -26,6 +26,7 @@ $\Omega(\Gamma)$ has 0,1,2 or infinitely many connected components | $J(f)$ has 
 Ahlfors's Finiteness Theorem | Sullivan's no wandering domains theorem |
 Bers's Finiteness Theorem | Shishikura's bound on periodic orbits |
 Thurston's geometrization theorem for Haken manifolds | Thurston's theorem on the realization of postcritically finite topological maps as rational maps |
+Simultaneous uniformization of two surface groups to obtain a quasifuchsian group | Quasiconformal mating of rational maps, e.g. mating a Blaschke product with the $z^2$ map to obtain $f(z)=z^2+\varepsilon$|
 Mostow's rigidity theorem | Thurston's uniqueness theorem for postcritically finite rational maps |
 The Riemann surfaces $\Omega(\Gamma)/\Gamma$ | Riemann surface laminations for rational maps |
 The 3-manifold $\mathbb{H}^3/\Gamma$ | Lyubich-Minsky laminations |
