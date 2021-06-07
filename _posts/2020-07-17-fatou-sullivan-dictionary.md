@@ -6,6 +6,9 @@ tags:
   - Complex Dynamics
   - Hyperbolic Geometry
 ---
+
+(A lot of this table/post was written quickly and needs reorganization/explanation/citations.)
+
 ## The Dictionary
 
 The Fatou-Sullivan dictionary (often called Sullivan's dictionary) provides a go-between for translating objects, theorems, and conjectures between the languages of Kleinian groups and iteration of holomorphic maps. The similarity between these two worlds was first noticed by Pierre Fatou in the early days of complex dynamics , and was later rediscoverd by Dennis Sullivan who used the analogy to prove the classical "no wandering domains" theorem of complex dynamics.
