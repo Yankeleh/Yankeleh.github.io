@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jacob Mazor"
+title                    : "Yankl Mazor"
 title_separator          : "-"
-name                     : &name "Jacob"
+name                     : &name "Yankl"
 description              : &description "Math Graduate Student"
 url                      : https://Yankeleh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
