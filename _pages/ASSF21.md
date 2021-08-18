@@ -48,4 +48,4 @@ See also:
 
 See also:
 
-- https://personal.math.ubc.ca/~ilaba/kakeya.html
+- [A page from I. Laba on the Kakeya problem](https://personal.math.ubc.ca/~ilaba/kakeya.html)
