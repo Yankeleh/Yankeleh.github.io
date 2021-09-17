@@ -8,29 +8,28 @@ redirect_from:
   - /ASS.html
 ---
 
-The Analysis Student Seminar meets on Wednesdays at 4:15 PM. In the Fall semester of 2021 it will be run as a reading seminar, with attendees presenting results and techniques from papers that they have read. This page will be updated with more information and speaker schedules as the semester progresses.
+The Analysis Student Seminar meets on Mondays at 4:00 PM. In the Fall semester of 2021 the topic is "Random walks, harmonic functions, and boundaries at infinity"
 
-| Date | Speaker | Topic 
+###Current Schedule
+
+| Date | Speaker | Topic | Source
 --- | --- | --- | ---
-| Aug. 25 | Yankl Mazor | Organization; Random walks, negative curvature, and harmonic functions |
+| Aug. 25 | Yankl Mazor | Organization; general overview | Various
+| Aug. 30  | Yankl Mazor | Introduction to random walks on groups; | Chapter 1 of Lalley's notes
+| Sept. 6 | Labor Day | - | -
+| Sept. 13 | Yankl Mazor | Subadditive limits and random walks | Lalley, Chapter 2
+| Sept. 20 | Owen Mireles Briones | The Carne-Varopoulos Inequality | Lalley, Chpater 3
+| Sept. 27 | Paul Sweeney | Amenability and return probabilities | Lalley, Chapter 4
 
 
-Some possible papers to present, organized by approximate topic:
 
-### Orbit Counting and Prime Number Theorems
+### Sources:
 
-- [_On decay of correlations in Anosov flow_](https://www.math.umd.edu/~dolgop/aapl.pdf), D. Dolgopyat (1998)
-
-- [_Prime number theorems and holonomies for hyperbolic rational maps_](https://arxiv.org/abs/1603.00107), H. Oh and D. Winter (2016)
-
-- [_Prime orbit theorems for expanding Thurston maps_](https://arxiv.org/abs/1804.08221), Z. Li and T. Zheng (2018)
-
-See also:
-
-- [_An analog of the Prime Number Theorem for closed orbits of Axiom A flows_](https://www.jstor.org/stable/2006982), W. Parry and M. Pollicott (1983)
+The primary source to start with will be [these notes from Steve Lalley on random walks on infinite groups](https://sites.math.northwestern.edu/~auffing/SNAP/rw-northwestern.pdf)
 
 
-### Random Walks and Harmonic Analysis
+##### Other possible sources
+
 
 - [_Harmonic measures versus quasiconformal measures for hyperbolic groups_](https://hal.archives-ouvertes.fr/hal-00290127v2/document), S. Blachere, P. Haissinsky, and P. Matthieu (2009)
 
@@ -42,15 +41,4 @@ See also:
 
 See also:
 
-- [_The Dirichlet problem at infinity for a negatively curved manifold_](http://www.math.stonybrook.edu/~dennis/publications/PDF/DS-pub-0062.pdf), D. Sullivan (1983)
-
-
-### Fractal Geometry and Harmonic Analysis
-
-- [_The Multiplier Problem for the Ball_](https://www.jstor.org/stable/1970864), C. Fefferman (1971)
-
-- [_Recent work connected with the Kakeya problem_](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.329.7921&rep=rep1&type=pdf), T. Wolff (1999)
-
-See also:
-
-- [A page from I. Laba on the Kakeya problem](https://personal.math.ubc.ca/~ilaba/kakeya.html)
+- [_The Dirichlet problem at infinity for a negatively curved manifold_](http://www.math.stonybrook.edu/~dennis/publications/PDF
