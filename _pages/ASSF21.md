@@ -10,7 +10,7 @@ redirect_from:
 
 The Analysis Student Seminar meets on Mondays at 4:00 PM. In the Fall semester of 2021 the topic is "Random walks, harmonic functions, and boundaries at infinity"
 
-###Current Schedule
+### Current Schedule
 
 | Date | Speaker | Topic | Source
 --- | --- | --- | ---
@@ -20,12 +20,17 @@ The Analysis Student Seminar meets on Mondays at 4:00 PM. In the Fall semester o
 | Sept. 13 | Yankl Mazor | Subadditive limits and random walks | Lalley, Chapter 2
 | Sept. 20 | Owen Mireles Briones | The Carne-Varopoulos Inequality | Lalley, Chpater 3
 | Sept. 27 | Paul Sweeney | Amenability and return probabilities | Lalley, Chapter 4
+| Oct. 4 | | Harmonic functions on groups and random walks | Lalley, Chapter 5
+| Oct. 11 | | Entropy and the Liouville property | Lalley, Chapter 6
+| Oct. 18 | | |
 
 
 
 ### Sources:
 
 The primary source to start with will be [these notes from Steve Lalley on random walks on infinite groups](https://sites.math.northwestern.edu/~auffing/SNAP/rw-northwestern.pdf)
+
+A primer on probability from Greg Lawler: (https://www.math.uchicago.edu/~lawler/probnotes.pdf)
 
 
 ##### Other possible sources
