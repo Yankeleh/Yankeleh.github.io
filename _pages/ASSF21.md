@@ -20,9 +20,9 @@ The Analysis Student Seminar meets on Mondays at 4:00 PM. In the Fall semester o
 | Sept. 13 | Yankl Mazor | Subadditive limits and random walks | Lalley, Chapter 2
 | Sept. 20 | Owen Mireles Briones | The Carne-Varopoulos Inequality | Lalley, Chpater 3
 | Sept. 27 | Paul Sweeney | Amenability and return probabilities | Lalley, Chapter 4
-| Oct. 4 | | Harmonic functions on groups and random walks | Lalley, Chapter 5
-| Oct. 11 | | Entropy and the Liouville property | Lalley, Chapter 6
-| Oct. 18 | | |
+| Oct. 4 | Yankl Mazor | Harmonic functions on groups and random walks pt 1 | Lalley, Chapter 5
+| Oct. 18 | Yankl Mazor | Harmonic functions on groups and random walks pt 2 | Lalley, Chapter 5
+| Oct. 25 | Willie Lim | Entropy and harmonic functions | Lalley, Chapter 6
 
 
 
@@ -46,4 +46,11 @@ A primer on probability from Greg Lawler: (https://www.math.uchicago.edu/~lawler
 
 See also:
 
-- [_The Dirichlet problem at infinity for a negatively curved manifold_](http://www.math.stonybrook.edu/~dennis/publications/PDF
+- [_The Dirichlet problem at infinity for a negatively curved manifold_](http://www.math.stonybrook.edu/~dennis/publications/PDF)
+
+
+##### Video sources
+
+- [Poisson-Furstenberg boundaries and the kaimanovich-vershik conjecture, by Russell Lyons](https://www.youtube.com/watch?v=Q2mSE7f8U-Q)
+
+- The Poisson boundary: a qualitative theory, by Vadim Kaimanovich - Lecutres [1](https://www.youtube.com/watch?v=Hcn6H4Kw2p8), [2](https://www.youtube.com/watch?v=dxgz_xjJvhI), [3](https://www.youtube.com/watch?v=MpDAjNnokYs), [4](https://www.youtube.com/watch?v=XBbkBCOBYnU)
