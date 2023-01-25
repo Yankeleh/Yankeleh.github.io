@@ -19,10 +19,10 @@ Now suppose (for the sake of contradiction) that some $E_{m,n}$ had positive mea
 
 If $f_k$ is given by the $k$-th root then note that
 
-$$f_k(\mathbb N + [\frac{m}{n},{m+1}{n}]) \cap I \supset f_k\left(\bigcup_{\ell=\lceil a\rceil}^{\lfloor b^k\rfloor -1} [\ell+\frac{m}{n},\ell+\frac{m+1}{n}]\right).$$
+$$f_k\left(\mathbb N + \left[\frac{m}{n},\frac{m+1}{n}\right]\right) \cap I \supset f_k\left(\bigcup_{\ell=\lceil a\rceil}^{\lfloor b^k\rfloor -1} \left[\ell+\frac{m}{n},\ell+\frac{m+1}{n}\right]\right).$$
 
 The measure of this latter set can be computed as
 
-$$\sum_{\ell=\lceil a^k\rceil}^{\lfloor b^k\rfloor -1}\int_{\ell+m/n}^{\ell+(m+1)/n}f_k'(t) dt\geq \sum \frac{1}{kn} (\ell + \frac{m+1}{n})^{1/k - 1}\geq \frac{1}{kn}\sum \ell^{1/k -1}.$$
+$$\sum_{\ell=\lceil a^k\rceil}^{\lfloor b^k\rfloor -1}\int_{\ell+m/n}^{\ell+(m+1)/n}f_k'(t) dt\geq \sum \frac{1}{kn} \left(\ell + \frac{m+1}{n}\right)^{1/k - 1}\geq \frac{1}{kn}\sum \ell^{1/k -1}.$$
 
 By comparing this last term with $\int t^{1/k - 1}dt$, we see that it is comparable to $(b-a)/n = \mu(I)/n$. However since this is a lower bound for the measure of a set which is contained in $I$ and is disjoint from $E_{m,n}\cap I$, we have a contradiction.
