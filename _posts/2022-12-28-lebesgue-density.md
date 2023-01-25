@@ -15,7 +15,7 @@ $$E=\bigcup_n \bigcup_{m=0}^{n-1} \{x\mid x^k \mod 1 \notin [\frac{m}{n},\frac{m
 
 and we will denote the sets being unioned as $E_{m,n}$.
 
-Now suppose (for the sake of contradiction) that some $E_{m,n}$ had positive measure. By Lebesgue's density theorem, take $I=[a,b]$ to be an interval such that $\mu(I\cap E_{m,n})> (1-\varepislon_0) \mu(I)$, where $\varepsilon_0$ is chosen to be much smaller than $1/n$.
+Now suppose (for the sake of contradiction) that some $E_{m,n}$ had positive measure. By Lebesgue's density theorem, take $I=[a,b]$ to be an interval such that $\mu(I\cap E_{m,n})> (1-\varepsilon_0) \mu(I)$, where $\varepsilon_0$ is chosen to be much smaller than $1/n$.
 
 If $f_k$ is given by the $k$-th root then note that
 
