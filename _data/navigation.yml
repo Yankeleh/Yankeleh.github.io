@@ -1,13 +1,13 @@
 # main links links
 main:
-  #- title: "Publications"
-  #  url: /publications/
+  - title: "Research"
+    url: /research/
 
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  #- title: "Teaching"
+  #  url: /teaching/    
     
   - title: "Links"
     url: /links/
@@ -21,5 +21,5 @@ main:
   #- title: "Guide"
   #  url: /markdown/
 
-  - title: "Analysis Seminar"
-    url: /AnalysisSeminarF21/
+  #- title: "Analysis Seminar"
+  #  url: /AnalysisSeminarF21/
