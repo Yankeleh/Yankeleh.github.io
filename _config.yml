@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yankl Mazor"
 title_separator          : "-"
 name                     : &name "Yankl"
-description              : &description "Math Graduate Student"
+description              : &description "Mathematician | Data Scientist"
 url                      : https://Yankeleh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yankeleh/Yankeleh.github.io"
@@ -83,11 +83,11 @@ author:
   name             : "Yankl Mazor"
   avatar           : "me.jpg"
   bio              : 
-  location         : Math Tower, 3-104
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "jacob [DOT] mazor [AT] stonybrook [DOT] edu"
+  email            : "n.jacobmazor@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

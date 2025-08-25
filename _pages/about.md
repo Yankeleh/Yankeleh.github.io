@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Yankl (pronounced YAWN-kul), though if you prefer you can call me Jacob, Netzah, Yasha, Yacoub, or any other cognate. I'm a (fifth year!) math PhD student at Stony Brook university, studying dynamical systems under the supervision of [Misha Lyubich](math.stonybrook.edu/~mlyubich).
+I'm Yankl (pronounced YAHN-kul), or Jacob (or any other cognate) if you prefer. I'm a mathematician, data scientist, and ML engineer currently the job market. Right now I am thinking about how to apply ML tools and data visualization to public transit analysis.
 
-
-If you're looking to reach me, the best way is probably by email. My address is "jacob [DOT] mazor [AT] stonybrook [DOT] edu" (with the appropriate substitutions).
+Previously I was a Visiting Postdoc at the TIFR Mumbai working in the field of holomorphic dynamical systems, and before that I completed my PhD at Stony Brook working under the supervision of [Misha Lyubich](math.stonybrook.edu/~mlyubich). My thesis was titled [One parameters families of Schwarz reflection maps arising from Shabat-Belyi maps.](https://www.math.stonybrook.edu/alumni/2024-Jacob-Mazor.pdf)
