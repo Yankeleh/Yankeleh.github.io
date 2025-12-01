@@ -1,0 +1,13 @@
+---
+title: "Antiholomorphic correspondences and mating II: Shabat polynomial slices"
+collection: research
+permalink: /research/2025-09-15-antiholomorphic-correspondences-and-mating-II
+excerpt: 'We study natural one-parameter families of antiholomorphic correspondences arising from univalent restrictions of Shabat polynomials, indexed by rooted dessin d&rsquo;enfants. We prove that the parameter spaces are topological quadrilaterals, giving a partial description of the univalency loci for the uniformizing Shabat polynomials. We show that the escape loci of our parameter spaces are naturally (real-analytically) uniformized by disks. We proceed with designing a puzzle structure (dual to the indexing dessin) for non-renormalizable maps, yielding combinatorial rigidity in these classes. Then we develop a renormalization theory for pinched (anti-)polynomial-like maps in order to describe all combinatorial Multibrot and Multicorn copies contained in our connectedness loci (a curious feature of these parameter spaces is the presence of multiple period one copies). Finally, we construct locally connected combinatorial models for the connectedness loci into which the indexing dessins naturally embed.'
+date: 2025-09-15
+venue: 'Arxiv'
+paperurl: 'https://arxiv.org/abs/2509.12357'
+citation: 'M. Lyubich, J. Mazor, S. Mukherjee. (2024). &quot; Antiholomorphic correspondences and mating II: Shabat polynomial slices.&quot; Arxiv:2509.12357'
+---
+     We study natural one-parameter families of antiholomorphic correspondences arising from univalent restrictions of Shabat polynomials, indexed by rooted dessin d'enfants. We prove that the parameter spaces are topological quadrilaterals, giving a partial description of the univalency loci for the uniformizing Shabat polynomials. We show that the escape loci of our parameter spaces are naturally (real-analytically) uniformized by disks. We proceed with designing a puzzle structure (dual to the indexing dessin) for non-renormalizable maps, yielding combinatorial rigidity in these classes. Then we develop a renormalization theory for pinched (anti-)polynomial-like maps in order to describe all combinatorial Multibrot and Multicorn copies contained in our connectedness loci (a curious feature of these parameter spaces is the presence of multiple period one copies). Finally, we construct locally connected combinatorial models for the connectedness loci into which the indexing dessins naturally embed.
+
+[Arxiv link](https://arxiv.org/abs/2509.12357)
