@@ -1,15 +1,19 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About me"
+excerpt: "Yankl Mazor — mathematician, PhD, quantitative researcher, and machine learning practitioner. Python, Julia, PyTorch, scientific computing, AI evaluation."
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I'm Yankl (pronounced YAHN-kul), or Jacob (or any other cognate) if you prefer. I'm a mathematician, dynamicist, and optimization engineer on the job market. I build mathematical models and optimization algorithms for engineering challenges. Currently exploring applications in dynamics, control, and computational efficiency.
+I'm Yankl (pronounced YAHN-kul), or Jacob if you prefer — a mathematician and researcher transitioning toward quantitative research, scientific computing, and AI safety/evaluation. I bring rigorous mathematical training to problems in numerical methods, algorithm design, and machine learning.
 
-My latest project is [EvolvingNetwork](https://github.com/Yankeleh/EvolvingNetwork), available on my Github. It is a Julia library which simulates a dynamically and stochastically evolving global network, and analyzes its connectivity properties.
+**Currently** I'm an AI Trainer at Handshake AI, authoring math problems and formal proofs for RLHF pipelines used to improve LLM mathematical reasoning. I also work on ML projects, including semi-supervised learning for historical document page segmentation and spectral analysis of dynamically evolving random networks.
 
-Previously I was a Visiting Postdoc at the TIFR Mumbai working in the field of holomorphic dynamical systems, and before that I completed my PhD at Stony Brook working under the supervision of [Misha Lyubich](math.stonybrook.edu/~mlyubich). My thesis was titled [One parameters families of Schwarz reflection maps arising from Shabat-Belyi maps.](https://www.math.stonybrook.edu/alumni/2024-Jacob-Mazor.pdf)
+**Technical skills:** Python (NumPy, SciPy, Pandas, Polars, PyTorch, scikit-learn), Julia (SciML, DynamicalSystems.jl), Lean, CUDA (beginner). I'm comfortable with numerical simulation, mathematical modeling, and implementing algorithms from research papers.
+
+**Research background:** I completed my PhD at Stony Brook University under [Misha Lyubich](https://www.math.stonybrook.edu/~mlyubich), specializing in holomorphic dynamics and hyperbolic geometry. My [thesis](https://www.math.stonybrook.edu/alumni/2024-Jacob-Mazor.pdf) studied one-parameter families of Schwarz reflection maps arising from Shabat-Belyi maps. After my PhD I was a Visiting Postdoc at TIFR Mumbai. The deep technical problem-solving, proof writing, and comfort with abstraction from that work translate directly to hard quantitative and algorithmic challenges.
+
+**Recent project:** [EvolvingNetwork](https://github.com/Yankeleh/EvolvingNetwork) is a Julia library for simulating stochastically evolving global networks and analyzing their connectivity and spectral properties.
