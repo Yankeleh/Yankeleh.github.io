@@ -7,10 +7,32 @@ redirect_from:
 
 ---
 
-## On Teaching
+## Technical / Computing
 
-* [Humanizing Pre-Course Contact with a Liquid Syllabus](https://brocansky.com/2020/06/humanizing-pre-course-contact-with-a-liquid-syllabus.html) by Michelle Pacansky-Brock
-* [SUNY Open Educational Resources](https://oer.suny.edu/)
+* [Julia Documentation](https://docs.julialang.org/)
+* [SciML Ecosystem Docs](https://sciml.ai/)
+* [DynamicalSystems.jl Documentation](https://juliadynamics.github.io/DynamicalSystems.jl/stable/)
+* [PyTorch Tutorials](https://pytorch.org/tutorials/)
+* [fast.ai — Practical Deep Learning for Coders](https://www.fast.ai/)
+* [Anthropic Research Blog](https://www.anthropic.com/research)
+
+
+
+## AI Safety / Alignment
+
+* [MATS Program](https://www.matsprogram.org/)
+* [Alignment Forum](https://www.alignmentforum.org/)
+* [BlueDot Impact — AI Safety Fundamentals](https://aisafetyfundamentals.com/)
+
+
+
+## Coding Resources
+
+* [Matplotlib Tutorials](https://matplotlib.org/3.2.1/tutorials/index.html)
+* [Numpy Tutorial](https://numpy.org/devdocs/user/quickstart.html#indexing-slicing-and-iterating)
+* [Another Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
+* [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia)
+* [SageMath](https://www.sagemath.org/)
 
 
 
@@ -33,23 +55,21 @@ redirect_from:
 
 
 
+## On Teaching
+
+* [Humanizing Pre-Course Contact with a Liquid Syllabus](https://brocansky.com/2020/06/humanizing-pre-course-contact-with-a-liquid-syllabus.html) by Michelle Pacansky-Brock
+* [SUNY Open Educational Resources](https://oer.suny.edu/)
+
+
+
 ## Time Management
 
 * ["How to Balance Research with Everything Else We Have to Do"]("https://www.ams.org/journals/notices/202005/rnoti-p659.pdf") by David Zureick-Brown
 * ["Productivity tips, tricks and hacks for academics (2015 edition)"](http://matt.might.net/articles/productivity-tips-hints-hacks-tricks-for-grad-students-academics/) by Matt Might
 
 
-## Coding Resources
 
-* [Matplotlib Tutorials](https://matplotlib.org/3.2.1/tutorials/index.html)
-* [Numpy Tutorial](https://numpy.org/devdocs/user/quickstart.html#indexing-slicing-and-iterating)
-* [Another Numpy Tutorial](https://cs231n.github.io/python-numpy-tutorial/)
-* [Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia)
-* [SageMath](https://www.sagemath.org/)
-
-
-
-## Miscellanious Links
+## Miscellaneous
 
 * ["On Proof and Progress in Mathematics" by Bill Thurston](https://arxiv.org/abs/math/9404236)
 * ["Living Proof"](https://www.ams.org/about-us/LivingProof.pdf) - An AMS/MAA collection of stories
